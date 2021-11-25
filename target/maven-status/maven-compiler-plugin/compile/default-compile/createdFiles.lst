@@ -1,0 +1,6 @@
+com\canvas\pageObjects\BasePage.class
+com\canvas\webUtilities\PropertyUtils.class
+com\canvas\webUtilities\Screenshot.class
+com\canvas\pageObjects\Calculation.class
+com\canvas\driverInit\DriverInitialization.class
+com\canvas\driverInit\DriverManager.class
